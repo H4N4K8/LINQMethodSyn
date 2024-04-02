@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQMethodSyn", "LINQMethodSyn\LINQMethodSyn.csproj", "{C03C9CC0-AAFA-42A3-BA0E-5954C0607E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C03C9CC0-AAFA-42A3-BA0E-5954C0607E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03C9CC0-AAFA-42A3-BA0E-5954C0607E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03C9CC0-AAFA-42A3-BA0E-5954C0607E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03C9CC0-AAFA-42A3-BA0E-5954C0607E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC6B83E-899E-433A-8623-778C0FDDCA70}
+	EndGlobalSection
+EndGlobal
